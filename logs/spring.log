@@ -1,0 +1,255 @@
+2023-08-19 09:13:36.798  INFO 32640 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 32640 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 09:13:36.806  INFO 32640 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 09:13:37.711  WARN 32640 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 09:13:37.728  INFO 32640 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 09:13:37.728  INFO 32640 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 868 ms
+2023-08-19 09:13:37.953  INFO 32640 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 09:13:38.068  INFO 32640 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 09:13:38.075  INFO 32640 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 09:13:38.081  INFO 32640 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 09:13:38.119  INFO 32640 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 09:13:38.153  INFO 32640 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 09:13:38.162  INFO 32640 --- [main] com.yc.Appmain                           : Started Appmain in 1.85 seconds (JVM running for 3.475)
+2023-08-19 09:14:41.129  INFO 32640 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 09:14:41.131  INFO 32640 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 09:14:41.135  INFO 32640 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2023-08-19 09:23:27.517  INFO 35364 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 35364 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 09:23:27.520  INFO 35364 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 09:23:28.279  WARN 35364 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 09:23:28.298  INFO 35364 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 09:23:28.299  INFO 35364 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 735 ms
+2023-08-19 09:23:28.495  INFO 35364 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 09:23:28.610  INFO 35364 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 09:23:28.614  INFO 35364 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 09:23:28.619  INFO 35364 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 09:23:28.651  INFO 35364 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 09:23:28.683  INFO 35364 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 09:23:28.691  INFO 35364 --- [main] com.yc.Appmain                           : Started Appmain in 1.677 seconds (JVM running for 3.422)
+2023-08-19 09:24:01.768  INFO 35364 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 09:24:01.769  INFO 35364 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 09:24:01.770  INFO 35364 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-08-19 09:25:27.710  INFO 35000 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 35000 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 09:25:27.715  INFO 35000 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 09:25:28.497  WARN 35000 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 09:25:28.515  INFO 35000 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 09:25:28.515  INFO 35000 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 753 ms
+2023-08-19 09:25:28.704  INFO 35000 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 09:25:28.801  INFO 35000 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 09:25:28.807  INFO 35000 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 09:25:28.812  INFO 35000 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 09:25:28.838  INFO 35000 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 09:25:28.873  INFO 35000 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 09:25:28.881  INFO 35000 --- [main] com.yc.Appmain                           : Started Appmain in 1.667 seconds (JVM running for 2.984)
+2023-08-19 09:25:58.888  INFO 35000 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 09:25:58.888  INFO 35000 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 09:25:58.890  INFO 35000 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-08-19 09:37:40.123  INFO 29084 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 29084 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 09:37:40.126  INFO 29084 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 09:37:41.255  WARN 29084 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 09:37:41.276  INFO 29084 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 09:37:41.277  INFO 29084 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1101 ms
+2023-08-19 09:37:41.527  INFO 29084 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 09:37:41.667  INFO 29084 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 09:37:41.675  INFO 29084 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 09:37:41.680  INFO 29084 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 09:37:41.713  INFO 29084 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 09:37:41.756  INFO 29084 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 09:37:41.765  INFO 29084 --- [main] com.yc.Appmain                           : Started Appmain in 2.098 seconds (JVM running for 4.048)
+2023-08-19 09:37:46.075  INFO 29084 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 09:37:46.075  INFO 29084 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 09:37:46.076  INFO 29084 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-19 09:47:20.044  INFO 34088 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 34088 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 09:47:20.046  INFO 34088 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 09:47:20.743  WARN 34088 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 09:47:20.758  INFO 34088 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 09:47:20.758  INFO 34088 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 673 ms
+2023-08-19 09:47:20.937  INFO 34088 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 09:47:21.056  INFO 34088 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 09:47:21.062  INFO 34088 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 09:47:21.070  INFO 34088 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 09:47:21.099  INFO 34088 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 09:47:21.135  INFO 34088 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 09:47:21.143  INFO 34088 --- [main] com.yc.Appmain                           : Started Appmain in 1.586 seconds (JVM running for 3.302)
+2023-08-19 09:47:27.001  INFO 34088 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 09:47:27.002  INFO 34088 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 09:47:27.003  INFO 34088 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-19 09:55:19.614  INFO 36468 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 36468 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 09:55:19.618  INFO 36468 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 09:55:20.376  WARN 36468 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 09:55:20.395  INFO 36468 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 09:55:20.395  INFO 36468 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 733 ms
+2023-08-19 09:55:20.650  INFO 36468 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 09:55:20.783  INFO 36468 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 09:55:20.788  INFO 36468 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 09:55:20.793  INFO 36468 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 09:55:20.821  INFO 36468 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 09:55:20.855  INFO 36468 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 09:55:20.866  INFO 36468 --- [main] com.yc.Appmain                           : Started Appmain in 1.743 seconds (JVM running for 3.383)
+2023-08-19 09:55:24.061  INFO 36468 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 09:55:24.062  INFO 36468 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 09:55:24.063  INFO 36468 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-19 10:00:13.465  INFO 36524 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 36524 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:00:13.469  INFO 36524 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:00:14.343  WARN 36524 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:00:14.364  INFO 36524 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:00:14.364  INFO 36524 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 855 ms
+2023-08-19 10:00:14.668  INFO 36524 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:00:14.788  INFO 36524 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:00:14.793  INFO 36524 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:00:14.798  INFO 36524 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:00:14.833  INFO 36524 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:00:14.872  INFO 36524 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:00:14.887  INFO 36524 --- [main] com.yc.Appmain                           : Started Appmain in 2.063 seconds (JVM running for 3.991)
+2023-08-19 10:00:39.919  INFO 36524 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:00:39.920  INFO 36524 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:00:39.921  INFO 36524 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-19 10:06:48.750  INFO 36816 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 36816 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:06:48.751  INFO 36816 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:06:49.476  WARN 36816 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:06:49.493  INFO 36816 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:06:49.494  INFO 36816 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 703 ms
+2023-08-19 10:06:49.737  INFO 36816 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:06:49.852  INFO 36816 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:06:49.856  INFO 36816 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:06:49.862  INFO 36816 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:06:49.895  INFO 36816 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:06:49.937  INFO 36816 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:06:49.949  INFO 36816 --- [main] com.yc.Appmain                           : Started Appmain in 1.856 seconds (JVM running for 3.329)
+2023-08-19 10:07:16.671  INFO 36816 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:07:16.672  INFO 36816 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:07:16.675  INFO 36816 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2023-08-19 10:13:26.022  INFO 22700 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 22700 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:13:26.025  INFO 22700 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:13:26.707  WARN 22700 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:13:26.721  INFO 22700 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:13:26.722  INFO 22700 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 658 ms
+2023-08-19 10:13:26.886  INFO 22700 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:13:26.995  INFO 22700 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:13:27.001  INFO 22700 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:13:27.006  INFO 22700 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:13:27.042  INFO 22700 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:13:27.091  INFO 22700 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:13:27.104  INFO 22700 --- [main] com.yc.Appmain                           : Started Appmain in 1.683 seconds (JVM running for 3.173)
+2023-08-19 10:13:31.829  INFO 22700 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:13:31.829  INFO 22700 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:13:31.831  INFO 22700 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-08-19 10:13:54.578  INFO 27932 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 27932 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:13:54.583  INFO 27932 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:13:55.333  WARN 27932 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:13:55.354  INFO 27932 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:13:55.354  INFO 27932 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 718 ms
+2023-08-19 10:13:55.562  INFO 27932 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:13:55.670  INFO 27932 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:13:55.677  INFO 27932 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:13:55.683  INFO 27932 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:13:55.721  INFO 27932 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:13:55.756  INFO 27932 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:13:55.766  INFO 27932 --- [main] com.yc.Appmain                           : Started Appmain in 1.709 seconds (JVM running for 3.318)
+2023-08-19 10:14:02.946  INFO 27932 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:14:02.947  INFO 27932 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:14:02.948  INFO 27932 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-19 10:15:48.306  INFO 35368 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 35368 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:15:48.311  INFO 35368 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:15:49.363  WARN 35368 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:15:49.387  INFO 35368 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:15:49.387  INFO 35368 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1021 ms
+2023-08-19 10:15:49.607  INFO 35368 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:15:49.720  INFO 35368 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:15:49.725  INFO 35368 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:15:49.729  INFO 35368 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:15:49.764  INFO 35368 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:15:49.797  INFO 35368 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:15:49.806  INFO 35368 --- [main] com.yc.Appmain                           : Started Appmain in 2.095 seconds (JVM running for 3.726)
+2023-08-19 10:15:52.102  INFO 35368 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:15:52.103  INFO 35368 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:15:52.104  INFO 35368 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-19 10:16:57.540  INFO 32412 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 32412 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:16:57.543  INFO 32412 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:16:58.295  WARN 32412 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:16:58.315  INFO 32412 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:16:58.316  INFO 32412 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 736 ms
+2023-08-19 10:16:58.514  INFO 32412 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:16:58.624  INFO 32412 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:16:58.628  INFO 32412 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:16:58.635  INFO 32412 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:16:58.663  INFO 32412 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:16:58.693  INFO 32412 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:16:58.703  INFO 32412 --- [main] com.yc.Appmain                           : Started Appmain in 1.674 seconds (JVM running for 3.155)
+2023-08-19 10:17:02.233  INFO 32412 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:17:02.234  INFO 32412 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:17:02.236  INFO 32412 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-08-19 10:17:31.820  INFO 18172 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 18172 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:17:31.823  INFO 18172 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:17:32.900  WARN 18172 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:17:32.933  INFO 18172 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:17:32.934  INFO 18172 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1060 ms
+2023-08-19 10:17:33.162  INFO 18172 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:17:33.296  INFO 18172 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:17:33.301  INFO 18172 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:17:33.308  INFO 18172 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:17:33.343  INFO 18172 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:17:33.378  INFO 18172 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:17:33.387  INFO 18172 --- [main] com.yc.Appmain                           : Started Appmain in 2.176 seconds (JVM running for 3.702)
+2023-08-19 10:17:35.957  INFO 18172 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:17:35.957  INFO 18172 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:17:35.959  INFO 18172 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-08-19 10:20:28.364  INFO 36132 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 36132 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:20:28.368  INFO 36132 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:20:29.074  WARN 36132 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:20:29.089  INFO 36132 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:20:29.089  INFO 36132 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 680 ms
+2023-08-19 10:20:29.264  INFO 36132 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:20:29.376  INFO 36132 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:20:29.381  INFO 36132 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:20:29.385  INFO 36132 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:20:29.415  INFO 36132 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:20:29.458  INFO 36132 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:20:29.471  INFO 36132 --- [main] com.yc.Appmain                           : Started Appmain in 1.711 seconds (JVM running for 3.177)
+2023-08-19 10:20:41.665  INFO 36132 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:20:41.666  INFO 36132 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:20:41.668  INFO 36132 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-08-19 10:21:32.372  INFO 36336 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 36336 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:21:32.376  INFO 36336 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:21:33.195  WARN 36336 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:21:33.218  INFO 36336 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:21:33.218  INFO 36336 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 802 ms
+2023-08-19 10:21:33.456  INFO 36336 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:21:33.594  INFO 36336 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:21:33.599  INFO 36336 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:21:33.605  INFO 36336 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:21:33.658  INFO 36336 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:21:33.700  INFO 36336 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:21:33.711  INFO 36336 --- [main] com.yc.Appmain                           : Started Appmain in 1.822 seconds (JVM running for 3.198)
+2023-08-19 10:21:37.650  INFO 36336 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:21:37.650  INFO 36336 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:21:37.651  INFO 36336 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-19 10:22:26.478  INFO 36460 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 36460 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:22:26.482  INFO 36460 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:22:27.198  WARN 36460 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:22:27.216  INFO 36460 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:22:27.216  INFO 36460 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 677 ms
+2023-08-19 10:22:27.433  INFO 36460 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:22:27.551  INFO 36460 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:22:27.556  INFO 36460 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:22:27.560  INFO 36460 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:22:27.592  INFO 36460 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:22:27.626  INFO 36460 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:22:27.639  INFO 36460 --- [main] com.yc.Appmain                           : Started Appmain in 1.685 seconds (JVM running for 3.175)
+2023-08-19 10:22:31.612  INFO 36460 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:22:31.613  INFO 36460 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:22:31.615  INFO 36460 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-08-19 10:24:34.129  INFO 23420 --- [main] com.yc.Appmain                           : Starting Appmain using Java 1.8.0_65 on BF-202301201122 with PID 23420 (D:\IdeaProjects\web_front_boot\target\classes started by Administrator in D:\IdeaProjects\web_front_boot)
+2023-08-19 10:24:34.133  INFO 23420 --- [main] com.yc.Appmain                           : No active profile set, falling back to 1 default profile: "default"
+2023-08-19 10:24:35.171  WARN 23420 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-08-19 10:24:35.192  INFO 23420 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-08-19 10:24:35.192  INFO 23420 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1017 ms
+2023-08-19 10:24:35.468  INFO 23420 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-08-19 10:24:35.594  INFO 23420 --- [main] io.undertow                              : starting server: Undertow - 2.2.23.Final
+2023-08-19 10:24:35.599  INFO 23420 --- [main] org.xnio                                 : XNIO version 3.8.7.Final
+2023-08-19 10:24:35.603  INFO 23420 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.7.Final
+2023-08-19 10:24:35.634  INFO 23420 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-08-19 10:24:35.667  INFO 23420 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 18889 (http)
+2023-08-19 10:24:35.676  INFO 23420 --- [main] com.yc.Appmain                           : Started Appmain in 2.192 seconds (JVM running for 3.857)
+2023-08-19 10:24:49.156  INFO 23420 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 10:24:49.156  INFO 23420 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-08-19 10:24:49.158  INFO 23420 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms

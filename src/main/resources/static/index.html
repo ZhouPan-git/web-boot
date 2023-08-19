@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>银行ATM操作</title>
+</head>
+<body>
+<div id="atm">
+    <form action="" method="post">
+        账户ID：<input type="text" name="accountId" v-model="accountId"/><br/>
+        操作金额：<input type="text" name="money" v-model="money"/><br/>
+        转入账号：<input type="text" name="toAccountId" v-model="toAccountId"/><br/>
+        <input type="button" value="存款" class="btn" id="submit" @click="deposite()">
+        <input type="button" value="取款" class="btn" id="submit" @click="withdraw()">
+        <input type="button" value="转账" class="btn" id="submit" @click="transfer()">
+        <input type="button" value="查询" class="btn" id="submit" @click="query()">
+        <div id="result"></div>
+    </form>
+</div>
+<!-- 引入 JavaScript 库 -->
+<script src="js/jquery-1.9.1.js"></script>
+<script src="js/vue.js"></script>
+<script src="js/axios.js"></script>
+<script type="text/javascript">
+    var host = "http://localhost:9999";
+
+    let app = new Vue({
+        el: "#atm",
+        data: {
+            accountId: 1,
+            money: 0.0,
+            toAccountId: ""
+        },
+        methods: {
+            deposite: function() {
+                var params = new URLSearchParams();
+                params.append('accountId', this.accountId);
+                params.append('money', this.money);
+                axios.post(host + '/deposite', params).then(response => {
+                    if (response.data.code == 0) {
+                        alert(response.data.msg);
+                    } else {
+                        $("#result").html(response.data.accountid + "号账户存款" + this.money + "成功，余额：" + response.data.balance);
+                    }
+                });
+            },
+            withdraw: function() {
+                var params = new URLSearchParams();
+                params.append('accountId', this.accountId);
+                params.append('money', this.money);
+                axios.post(host + '/withdraw', params).then(response => {
+                    if (response.data.code == 0) {
+                        alert(response.data.msg);
+                    } else {
+                        $("#result").html(response.data.accountid + "号账户取款" + this.money + "成功，余额：" + response.data.balance);
+                    }
+                });
+            },
+            query: function() {
+                var params = new URLSearchParams();
+                params.append('accountId', this.accountId);
+                axios.post(host + '/findAccount', params).then(response => {
+                    if (response.data == null) {
+                        console.log(response);
+                    } else {
+                        $("#result").html(response.data.accountid + "号账户，余额：" + response.data.balance);
+                    }
+                });
+            }
+        }
+    });
+</script>
+</body>
+</html>
